@@ -31,3 +31,8 @@ C:\Users\Leo\Projects\MinimalApi\MinimalApi\obj\Debug\net7.0\refint\MinimalApi.d
 C:\Users\Leo\Projects\MinimalApi\MinimalApi\obj\Debug\net7.0\MinimalApi.pdb
 C:\Users\Leo\Projects\MinimalApi\MinimalApi\obj\Debug\net7.0\MinimalApi.genruntimeconfig.cache
 C:\Users\Leo\Projects\MinimalApi\MinimalApi\obj\Debug\net7.0\ref\MinimalApi.dll
+C:\Users\Leo\Projects\MinimalApi\MinimalApi\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Leo\Projects\MinimalApi\MinimalApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Leo\Projects\MinimalApi\MinimalApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Leo\Projects\MinimalApi\MinimalApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Leo\Projects\MinimalApi\MinimalApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
